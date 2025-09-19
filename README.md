@@ -24,7 +24,7 @@ It calculates **user similarity using cosine similarity** and recommends top-rat
 3. Creates a **user-item rating matrix**.  
 4. Computes **cosine similarity** between users.  
 5. Recommends movies to a user based on ratings from **similar users**.  
-6. Evaluates recommendation performance using **Precision@K**.  
+6. Evaluates recommendation performance using **Precision at K**.  
 7. Generates a **top-5 movie list** for a subset of users.  
 
 ---
